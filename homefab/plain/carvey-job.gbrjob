@@ -1,0 +1,24 @@
+G04 Gerber job file with board parameters*
+%TF.FileFunction,JobInfo*%
+%TF.Part,SinglePCB*%
+G04 Single PCB fabrication instructions*
+%TF.GenerationSoftware,KiCad,Pcbnew,(2017-10-17 revision 537804b)-master*%
+%TF.CreationDate,2018-04-25T20:23:43+10:00*%
+%TF.ProjectId,carvey,6361727665792E6B696361645F706362,rev?*%
+%MOMM*%
+G04 Overall board parameters*
+%TJ.B.Size.X,48.300*%
+%TJ.B.Size.Y,14.840*%
+%TJ.B.LayerNum,2*%
+%TJ.B.Overall.Thickness,1.600*%
+%TJ.B.Legend.Present,No*%
+%TJ.B.SolderMask.Present,No*%
+G04 board design rules*
+%TJ.D.PadToPad.Out,0.200*%
+%TJ.D.PadToTrack.Out,0.200*%
+%TJ.D.TrackToTrack.Out,0.200*%
+%TJ.D.TrackToRegion.Out,0.508*%
+%TJ.D.RegionToRegion.Out,0.508*%
+G04 Layer Structure*
+%TJ.L."Copper,L1,Top",Positive,carvey-F.Cu.gbr*%
+M02*

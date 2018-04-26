@@ -1,4 +1,5 @@
 EESchema Schematic File Version 3
+LIBS:carvey-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -94,7 +95,7 @@ Wire Wire Line
 Wire Wire Line
 	3485 3355 3490 3355
 $Comp
-L SW_Push_Dual SW1
+L SW_Push_Dual-RESCUE-carvey SW1
 U 1 1 5ADDB325
 P 3285 3235
 F 0 "SW1" H 3285 3520 50  0000 C CNN

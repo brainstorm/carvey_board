@@ -3,9 +3,7 @@ Carvey smartclamp<sup>tm</sup> homebrew PCB enhancement with AutoLevelling suppo
 
 This is a working KiCad response to the [inventables thread on how to height probe a PCB](https://discuss.inventables.com/t/height-probing-a-pcb-on-carvey/21139/10) with [the Carvey](https://www.inventables.com/technologies/Carvey) and [Grbl Chillipeppr with autolevel plugin](http://chilipeppr.com/jpadie). Also a way to rapidly and inexpensively iterate on my PCB prototyping projects without long shipping times.
 
-<p style="align: center;">
-![autolevel carvey imgur animation](http://imgur.com/wF3li46.gif)
-</p>
+![Imgur Image](http://i.imgur.com/wF3li46.gif)
 
 <p style="align: center;">
     <img src='img/carvey_smartclamp_mounted.jpg' height=320 width=230/>

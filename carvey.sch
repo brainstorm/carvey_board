@@ -80,6 +80,17 @@ F 3 "" H 3290 3680 50  0001 C CNN
 	1    3290 3480
 	-1   0    0    1   
 $EndComp
+$Comp
+L Conn_01x02 J2
+U 1 1 5AFD5A49
+P 4050 3880
+F 0 "J2" V 3923 3960 50  0000 L CNN
+F 1 "Conn_01x02" V 4014 3960 50  0000 L CNN
+F 2 "alligator_pads:TouchSlider-2_10x7mm" H 4050 3880 50  0001 C CNN
+F 3 "" H 4050 3880 50  0001 C CNN
+	1    4050 3880
+	0    1    1    0   
+$EndComp
 Wire Wire Line
 	3090 3180 3090 3480
 Wire Wire Line
@@ -88,7 +99,7 @@ Wire Wire Line
 	4180 3250 3490 3250
 Connection ~ 3490 3250
 Wire Wire Line
-	4180 3350 4060 3350
+	4050 3350 4180 3350
 Wire Wire Line
 	4060 3350 4060 3250
 Connection ~ 4060 3250
@@ -108,4 +119,10 @@ Wire Wire Line
 Wire Wire Line
 	3930 3450 3930 3150
 Connection ~ 3930 3150
+Wire Wire Line
+	3950 3680 3950 3450
+Connection ~ 3950 3450
+Wire Wire Line
+	4050 3680 4050 3350
+Connection ~ 4060 3350
 $EndSCHEMATC

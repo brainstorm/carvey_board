@@ -5,15 +5,17 @@ This is a working KiCad response to the [inventables thread on how to height pro
 
 <p align="center">
 ![Imgur Image](http://i.imgur.com/wF3li46.gif)
+</p>
 
-<img src='img/carvey_smartclamp_mounted.jpg' height=320 width=230/>
-<img src='img/autolevelling_pcb.jpg' height=320 width=230/>
+<p align="center">
+<img src='img/carvey_smartclamp_mounted.jpg' height=320 width=240/>
+<img src='img/autolevelling_pcb.jpg' height=320 width=240/>
 </p>
 
 The new board has a convenient exposed zone outside the metallic clamp so that common alligator clips can be attached without long overhang wires as seen above in the pictures.
 
 <p align="center">
-<img src='img/kicad_screenshot.png' height=200/>
+<img src='img/kicad_screenshot.png' height=320/>
 </p>
 
 If there's enough interest in getting those boards made by a fab I can setup a tindie run perhaps? File an issue if so to gauge interest ;)

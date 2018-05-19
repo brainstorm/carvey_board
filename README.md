@@ -18,4 +18,4 @@ The new board has a convenient exposed zone outside the metallic clamp so that c
 <img src='img/kicad_screenshot.png' height=320/>
 </p>
 
-If there's enough interest in getting those boards made by a fab I can setup a tindie run perhaps? File an issue if so to gauge interest ;)
+If there's enough interest in getting those boards made by a fab I can setup a tindie run perhaps? File an issue if so to gauge interest, otherwise, this is open hardware, download the Gerbers and have fun! ;)

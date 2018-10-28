@@ -21,3 +21,7 @@ The new board has a convenient exposed zone outside the metallic clamp so that c
 Two CNC-ready files created with my own OSX/Python3/Qt5-compatible version of [FlatCAM](https://bitbucket.org/brainstorm/flatcam/src/master/) are available under [homefab](https://github.com/brainstorm/carvey_board/tree/master/homefab/cnc), along with the accompanying KiCad gerbers. You will need a 0.1mm drill for PCB isolation routing and a 3.13mm drill for the board cutout (tipically included in the Carvey drill kit).
 
 If there's enough interest in getting those boards made by a fab I can setup a tindie run perhaps? File an issue if so to gauge interest, otherwise, this is open hardware, download the Gerbers and have fun! ;)
+
+Otherwise, just order it here and help me hoard points to hoard more PCBs:
+
+<a href="https://PCBs.io/share/zOVlY"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>
